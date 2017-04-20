@@ -58,4 +58,4 @@ $string['repo_migrate_link'] = 'Open the Repository Module Migration Tool';
 $string['repo_migrate_title'] = 'Repository Module Migration';
 $string['shared_secret'] = 'MEDIAL Shared Secret';
 $string['shared_secret2'] = 'The shared secret used for comunications between Moodle and the MEDIAL server via LTI.';
-?>
+$string['search:activity'] = 'MEDIAL Activity Videos';
